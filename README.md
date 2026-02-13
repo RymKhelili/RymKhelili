@@ -1,8 +1,9 @@
 ## Hi there 👋
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Frymkhelili&label=Visitors&countColor=%2300ff00&labelColor=%23000000" alt="Visitor's Count" />
+  <img src="https://hits.sh/rymkhelili.svg?style=for-the-badge&label=VISITORS&labelColor=000000&color=00ff44" alt="Visitor's Count" />
 </div>
+
 
 <!--
 **RymKhelili/RymKhelili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
