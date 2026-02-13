@@ -1,11 +1,8 @@
 ## Hi there 👋
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rymkhelili&left_color=000000&right_color=00ff00" alt="Visitor's Count" />
+ <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 </div>
-
-
-
 <!--
 **RymKhelili/RymKhelili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
