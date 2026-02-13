@@ -1,8 +1,9 @@
 ## Hi there 👋
-<div align="center">
+<div align="center"> 
   <p>Visitor count</p>
-  <img src="https://hits.sh/rymkhelili.svg?style=for-the-badge&label=VISITORS&labelColor=000000&color=00ff44" alt="Visitor's Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rymkhelili&left_color=000000&right_color=00ff00" alt="Visitor's Count" />
 </div>
+
 
 
 <!--
