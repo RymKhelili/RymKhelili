@@ -1,8 +1,8 @@
 ## Hi there 👋
-<p align="center">
-Visitor count<br>
-<img src="https://profile-counter.glitch.me/rym-counter/count.svg" alt="Visitor's Count">
-</p>
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{RymKhelili}/count.svg" alt="Visitor's Count" />
+</div>
 
 <!--
 **RymKhelili/RymKhelili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
