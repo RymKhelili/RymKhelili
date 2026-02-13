@@ -1,13 +1,9 @@
 ## Hi there 👋
-<div align="center">
-  <p style="font-family: 'Courier New', monospace; color:#00ffff; font-size:16px;">
-    ⚡ Visitor Count ⚡
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=rymkhelili&color=ff00ff" alt="Visitor Count" />
-  <p style="font-family: 'Courier New', monospace; color:#ff00ff; font-size:12px;">
-    Neon cyber vibes 🌐
-  </p>
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/rymkhelili/count.svg" alt="Visitor's Count" />
 </div>
+
 <!--
 **RymKhelili/RymKhelili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
