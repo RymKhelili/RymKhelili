@@ -5,7 +5,7 @@
  <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=UnifrakturCook&size=46&center=true&vCenter=true&width=600&height=70&color=FFFFFF&duration=4000&lines=Hey+there,+I'm+Rym;" />
 </h1>
-### A human-risk–focused social engineer specializing in behavioral manipulation analysis, OSINT investigations, and human-centered cybersecurity awareness.
+A human-risk–focused social engineer specializing in behavioral manipulation analysis, OSINT investigations, and human-centered cybersecurity awareness.
 </div>
 
 
