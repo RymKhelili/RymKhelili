@@ -2,8 +2,9 @@
 <div align="center"> 
   <p>Visitor count</p>
  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
+ <img src="https://github.com/rymkhelili/rymkhelili/blob/main/ban-git.png" alt="Banner of a girl sitting in front of a desk">
 </div>
-<img src="https://github.com/rymkhelili/rymkhelili/blob/main/ban-git.png" alt="Banner of a girl sitting in front of a desk">
+
 
 <!--
 **RymKhelili/RymKhelili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
