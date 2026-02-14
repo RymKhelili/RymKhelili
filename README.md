@@ -29,9 +29,20 @@ A human-risk–focused social engineer specializing in behavioral manipulation a
     <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a>
 </div>
+<hr>
+🛠️ Languages and Tools
+<br>
+
+<br> <p align="center">
+  <img src="maltego.png" height="50" style="border-radius:50%;" alt="maltego" />
+   <img src="1.png" height="50" alt="maltego" />
+    <img src="2.png" height="50" alt="maltego" />
+      <img src="3.png" height="50" alt="maltego" />
+       <img src="4.png" height="50" alt="maltego" />
+        <img src="5.png" height="50" alt="maltego" />
+</p>
 
 <hr>
-
 
 <!--
 **RymKhelili/RymKhelili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
