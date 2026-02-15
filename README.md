@@ -43,18 +43,28 @@ A human-risk–focused social engineer specializing in behavioral manipulation a
 </p>
 
 <hr>
+⚡️ Stats
 
-<!--
-**RymKhelili/RymKhelili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img
+    width="420"
+    src="https://ghstats.vercel.app/api?username=rymkhelili&show_icons=true&theme=dark"
+    alt="Rym Khelili GitHub Stats"
+  />
+
+  <img
+    width="420"
+    src="https://streak-stats.demolab.com/?user=rymkhelili&theme=dark"
+    alt="Rym Khelili GitHub Streak"
+  />
+
+</div>
+
+<hr>
+
+
+
+
