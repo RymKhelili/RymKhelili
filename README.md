@@ -43,28 +43,6 @@ A human-risk–focused social engineer specializing in behavioral manipulation a
 </p>
 
 <hr>
-⚡️ Stats
-
-<br><br>
-
-<div align="center">
-
-  <img
-    width="420"
-    src="https://ghstats.vercel.app/api?username=rymkhelili&show_icons=true&theme=dark"
-    alt="Rym Khelili GitHub Stats"
-  />
-
-  <img
-    width="420"
-    src="https://streak-stats.demolab.com/?user=rymkhelili&theme=dark"
-    alt="Rym Khelili GitHub Streak"
-  />
-
-</div>
-
-<hr>
-
 
 
 
