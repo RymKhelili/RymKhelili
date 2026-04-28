@@ -1,7 +1,7 @@
 <div align="center"> 
   <p>Visitor count</p>
  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
- <img src="Gemini_Generated_Image_wdayqrwdayqrwday" alt="Banner of a girl sitting in front of a desk">
+ <img src="Gemini_Generated_Image_wdayqrwdayqrwday.png" alt="Banner of a girl sitting in front of a desk">
  <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=UnifrakturCook&size=46&center=true&vCenter=true&width=600&height=70&color=FFFFFF&duration=4000&lines=Hey+there,+I'm+Rym;" />
 </h1>
