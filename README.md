@@ -3,7 +3,7 @@
  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
  <img src="reikuzanagi.png" alt="Banner of a girl sitting in front of a desk">
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=UnifrakturCook&size=46&center=true&vCenter=true&width=600&height=70&color=FFFFFF&duration=4000&lines=Hey+there,+I'm+Rym;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=UnifrakturCook&size=46&center=true&vCenter=true&width=600&height=70&color=FFFFFF&duration=4000&lines=Hey+there,+I'm+Rei;" />
 </h1>
 A human-risk–focused social engineer specializing in behavioral manipulation analysis, OSINT investigations, and human-centered cybersecurity awareness.
 <br>
