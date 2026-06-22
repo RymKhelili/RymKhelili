@@ -7,7 +7,7 @@
 <br><br>
 
 <!-- BANNER / TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&center=true&vCenter=true&width=950&height=80&color=FFFFFF&duration=3500&lines=RYM+KHELILI+%28THE+SOCIAL+ENGINEER%29;HUMAN+BEHAVIOR+IN+CYBERSECURITY;OSINT+%7C+SOCIAL+ENGINEERING+%7C+CYBER+AWARENESS" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&center=true&vCenter=true&width=950&height=80&color=FFFFFF&duration=3500&lines=Hey+there+!+You+can+call+me+Rei+." />
 
 ---
 
