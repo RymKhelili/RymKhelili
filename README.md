@@ -189,6 +189,6 @@ CURRENT:    Human Firewall Research
             Social Engineering Education
 
 BOOK:       Journal of an Imposter
-            Notes of a Social Engineer
+            Notes on Social Engineering
 
 MISSION:    Make social engineering easier to recognize.
