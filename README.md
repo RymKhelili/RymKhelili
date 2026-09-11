@@ -3,7 +3,7 @@
 <!-- VISITOR COUNT -->
 <p><b>VISITOR COUNT</b></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rymkhelili&label=&color=000000&style=flat-square" alt="Profile views">
+  <img src="YOUR_BANNER_URL" width="100%" alt="The Social Engineer">
 </p>
 
 <br><br>
