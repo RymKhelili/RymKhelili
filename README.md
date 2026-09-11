@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- VISITOR COUNT -->
-<p><b>VISITOR COUNT</b></p>
+Welcome to my profile!
 <p align="center">
   <img src="YOUR_BANNER_URL" width="100%" alt="The Social Engineer">
 </p>
