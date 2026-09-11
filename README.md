@@ -2,7 +2,7 @@
 
 <!-- VISITOR COUNT -->
 <p align="center">
-  <img src="TSE" width="100%" alt="The Social Engineer">
+  <img src="thesocialengineer.png" width="100%" alt="The Social Engineer">
 </p>
 
 <br><br>
