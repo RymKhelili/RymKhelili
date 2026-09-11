@@ -3,7 +3,7 @@
 <!-- VISITOR COUNT -->
 <p><b>VISITOR COUNT</b></p>
 <p align="center">
-  <img src="https://profile-counter.deno.dev/rymkhelili/count.svg" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rymkhelili&style=flat-square" alt="Profile views" />
 </p>
 
 <br><br>
