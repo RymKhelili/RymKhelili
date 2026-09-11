@@ -3,7 +3,7 @@
 <!-- VISITOR COUNT -->
 <p><b>VISITOR COUNT</b></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rymkhelili&label=PROFILE+VIEWS&color=111111&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=rymkhelili&label=&color=000000&style=flat-square" alt="Profile views">
 </p>
 
 <br><br>
