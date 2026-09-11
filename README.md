@@ -6,12 +6,6 @@
 </p>
 
 <br><br>
-
-<!-- BANNER / TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&center=true&vCenter=true&width=950&height=80&color=FFFFFF&duration=3500&lines=Hey+there+!+You+can+call+me+Rei+.;I'm+The+Social+Engineer." />
-
----
-
 ### RYM KHELILI │ THE SOCIAL ENGINEER
 
 I'm **Rei**, an independent researcher and speaker interested in **social engineering, human behavior, and the human side of cybersecurity**.
