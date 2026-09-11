@@ -2,7 +2,9 @@
 
 <!-- VISITOR COUNT -->
 <p><b>VISITOR COUNT</b></p>
-<img src="https://profile-counter.deno.dev/rymkhelili/count.svg" />
+<p align="center">
+  <img src="https://profile-counter.deno.dev/rymkhelili/count.svg" alt="Profile views" />
+</p>
 
 <br><br>
 
@@ -11,7 +13,7 @@
 
 ---
 
-### RYM KHELILI — THE SOCIAL ENGINEER
+### RYM KHELILI │ THE SOCIAL ENGINEER
 
 I'm **Rei**, an independent researcher and speaker interested in **social engineering, human behavior, and the human side of cybersecurity**.
 
@@ -40,7 +42,7 @@ My work focuses on understanding how people are manipulated and educating others
 ## 🚧 I'M CURRENTLY WORKING ON
 
 - **The Human Firewall** — a research paper exploring human-centered cybersecurity awareness and the role of human behavior in security.
-  - 📂 **Research Repository:** [GitHub Repository](YOUR-HUMAN-FIREWALL-REPO-LINK)
+  -  📄 **Research Repository:** [GitHub Repository](YOUR-HUMAN-FIREWALL-REPO-LINK)
 
 - **Social Engineering Education** — creating educational content about social engineering, manipulation, and online safety through social media.
   - 📱 **Follow my work:** [Social Media](YOUR-SOCIAL-MEDIA-LINK)
@@ -53,7 +55,7 @@ My work focuses on understanding how people are manipulated and educating others
 ## 🛠️ PORTFOLIO & PROJECTS
 
 - 🌐 Portfolio: https://rymkhelili.github.io/The-Social-Engineer/
-- 📂 Research: [The Human Firewall](YOUR-HUMAN-FIREWALL-REPO-LINK)
+- 📄 Research: [The Human Firewall](YOUR-HUMAN-FIREWALL-REPO-LINK)
 - 📱 Social Engineering Education: [Follow my work](YOUR-SOCIAL-MEDIA-LINK)
 - 📖 Book: *Journal of an Imposter — Coming Soon*
 
