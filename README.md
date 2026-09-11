@@ -57,7 +57,7 @@ My work focuses on understanding how people are manipulated and educating others
 - 🌐 Portfolio: https://rymkhelili.github.io/The-Social-Engineer/
 - 📄 Research: [The Human Firewall](YOUR-HUMAN-FIREWALL-REPO-LINK)
 - 📱 Social Engineering Education: [Follow my work](YOUR-SOCIAL-MEDIA-LINK)
-- 📖 Book: *Journal of an Imposter — Coming Soon*
+- 📖 Book: *Journal of an Imposter ~ Coming Soon*
 
 ---
 
