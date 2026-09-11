@@ -2,9 +2,9 @@
 
 <!-- VISITOR COUNT -->
 <p><b>VISITOR COUNT</b></p>
-<img src="https://komarev.com/ghpvc/?username=rymkhelili&label=&color=000000&style=flat-square" alt="Profile views">
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rymkhelili&label=&color=000000&style=flat-square" alt="Profile views">
+</p>
 
 <br><br>
 
