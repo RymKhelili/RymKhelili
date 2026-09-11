@@ -9,19 +9,19 @@
 
 <!-- BANNER / TYPING HEADER -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&center=true&vCenter=true&width=950&height=80&color=FFFFFF&duration=3500&lines=Hey+there+!+You+can+call+me+Rei+.;I'm+The+Social+Engineer.;I+study+the+human+attack+surface." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&center=true&vCenter=true&width=950&height=80&color=FFFFFF&duration=3500&lines=Hey+there+!+You+can+call+me+Rei+.;I'm+The+Social+Engineer.;I+study+the+human+side+of+cybersecurity." />
 
----
+<br>
 
-### RYM KHELILI (THE SOCIAL ENGINEER)
+# RYM KHELILI
 
-I am **The Social Engineer — a Human Attack Surface Specialist**, independent researcher, and speaker working at the intersection of **social engineering, human behavior, cognitive security, behavioral security, and cybersecurity awareness**.
+### THE SOCIAL ENGINEER
 
-My research examines how people are influenced, manipulated, deceived, and exploited in digital and physical environments—and why conventional security awareness approaches often fail to address the underlying human factors.
+**SOCIAL ENGINEERING AWARENESS · HUMAN MANIPULATION · HUMAN-CENTRIC CYBERSECURITY**
 
-I approach cybersecurity from the **human side of the attack**: understanding the adversary's perspective, studying human decision-making, and translating behavioral and psychological research into practical security interventions.
+<br>
 
-**Independent researcher. Speaker. Social engineer. Human-centric cybersecurity practitioner.**
+**Independent Researcher · Social Engineer · Speaker**
 
 </div>
 
@@ -29,50 +29,51 @@ I approach cybersecurity from the **human side of the attack**: understanding th
 
 ## 🧠 FOCUS AREA
 
-* Human behavior and the **human attack surface**
-* Social engineering, deception, persuasion, and manipulation
-* Cognitive security and decision-making under pressure
-* Behavioral security and human-centered cybersecurity
-* Cognitive biases and vulnerability exploitation
-* OSINT and HUMINT-informed analysis
-* Social engineering awareness and digital resilience
-* Cybersecurity awareness beyond the traditional "human firewall" model
-* Information asymmetry, trust exploitation, and influence
-* Online safety across individuals, organizations, families, women, children, and vulnerable users
-* The relationship between **human cognition, behavior, technology, and cyber risk**
+My work focuses on the **human attack surface**—the people, behaviors, decisions, relationships, and information that attackers can exploit.
+
+* Social engineering and human manipulation
+* Psychology of deception and persuasion
+* Cognitive security and decision-making
+* Behavioral security
+* Human-centric cybersecurity
+* Social engineering awareness
+* OSINT and information exposure
+* HUMINT-informed analysis
+* Trust, authority, urgency, and influence
+* AI-amplified social engineering
+* Synthetic identities, voice cloning, and synthetic media
+* Digital resilience and critical thinking
+* Human factors in cybercrime
+
+I am interested in what happens **before the compromise**:
+
+> **Before the click. Before the disclosure. Before the transfer. Before the attacker gets what they want.**
 
 ---
 
 ## 🚧 I’M CURRENTLY WORKING ON
 
-* A literature-grounded research program examining **why traditional cybersecurity awareness approaches fail**
-* An applied **Cognitive Security / Human Firewall Framework**
-* Behavioral models for understanding social engineering attacks
-* Research into manipulation, deception, persuasion, and cognitive vulnerability
-* OSINT-based approaches to understanding information exposure and manipulation risk
-* **MOTOKO** — a Behavioral Security Intelligence, diagnostic, and simulation platform concept
-* Research into AI-assisted social engineering and emerging human-targeted threats
-* Practical social engineering awareness programs for non-technical audiences
-* Research connecting social engineering with criminology, psychology, behavioral science, and cybersecurity
-* *Journal of an Imposter: Notes of a Social Engineer* — an academic reflective research journal examining social engineering from multidisciplinary perspectives
-* Open research, frameworks, case studies, experiments, and practitioner methodologies
+* **Journal of an Imposter: Notes of a Social Engineer** — an academic reflective research journal exploring social engineering through psychology, behavioral science, criminology, and cybersecurity.
+* Research into why traditional cybersecurity awareness approaches often fail to address the actual mechanisms behind unsafe decisions.
+* A **Human Firewall / Cognitive Security framework** focused on experience, reflection, cognitive awareness, and behavioral practice.
+* **MOTOKO** — a Behavioral Security Intelligence, diagnostic, and simulation platform concept.
+* Research into cognitive bias exploitation and human decision-making during social engineering attacks.
+* OSINT-based research into personal exposure, profiling, and information-assisted manipulation.
+* Research into AI-enabled social engineering, conversational manipulation, synthetic media, and identity fabrication.
+* Practical social engineering awareness programs for individuals, families, schools, communities, and organizations.
+* Open research, case studies, frameworks, experiments, and practitioner methodologies.
 
 ---
 
 ## 🛠️ PORTFOLIO & PROJECTS
 
-* 🌐 Portfolio: **The Social Engineer** — [your-portfolio-link]
-* 📂 Research Work: [your-research-portfolio-link]
-* 🧠 Case Studies: [your-case-studies-link]
-* 🧪 MOTOKO — Behavioral Security Intelligence & Simulation
-* 📚 Cognitive Security & Human Firewall Research
-* 🔎 Social Engineering / OSINT Research
-* 🎤 Human-Centric Cybersecurity Workshops & Talks
-
-> **My work is intentionally human-centered.**
->
-> I am not focused on penetration testing infrastructure.
-> I study what happens **before the click, before the disclosure, before the compromise, and before the attacker gains access.**
+* 🌐 **The Social Engineer:** https://rymkhelili.github.io/The-Social-Engineer/
+* 📖 **Journal of an Imposter:** *Coming soon*
+* 🧠 **Human Firewall / Cognitive Security Research**
+* 🧪 **MOTOKO:** Behavioral Security Intelligence & Simulation
+* 🔎 **Social Engineering & OSINT Research**
+* 🎤 **Social Engineering Awareness Workshops**
+* 📚 **Research Papers & Open Frameworks**
 
 ---
 
@@ -80,18 +81,17 @@ I approach cybersecurity from the **human side of the attack**: understanding th
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HUMAN_ATTACK_SURFACE-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
 <img src="https://img.shields.io/badge/SOCIAL_ENGINEERING-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
+<img src="https://img.shields.io/badge/HUMAN_ATTACK_SURFACE-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
 <img src="https://img.shields.io/badge/COGNITIVE_SECURITY-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
 <img src="https://img.shields.io/badge/BEHAVIORAL_SECURITY-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-<img src="https://img.shields.io/badge/OSINT-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
 
 </p>
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/OSINT-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
 <img src="https://img.shields.io/badge/HUMAN_CENTRIC_CYBERSECURITY-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-<img src="https://img.shields.io/badge/SECURITY_AWARENESS-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
 <img src="https://img.shields.io/badge/PSYCHOLOGY-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
 <img src="https://img.shields.io/badge/INDEPENDENT_RESEARCH-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
 
@@ -101,129 +101,172 @@ I approach cybersecurity from the **human side of the attack**: understanding th
 
 ## 📡 PROFESSIONAL ROLE
 
-* **The Social Engineer**
-* **Human Attack Surface Specialist**
-* Social Engineering Researcher
-* Independent Behavioral Security Researcher
-* Human-Centric Cybersecurity Practitioner
-* Cybersecurity Awareness Program Designer
-* Cognitive Security Researcher
-* Social Engineering Speaker & Educator
-* OSINT / HUMINT-informed Researcher
+### THE SOCIAL ENGINEER
 
-My work combines perspectives from:
+I work as an **independent researcher, social engineer, and speaker** specializing in the human side of cybersecurity.
 
-**Cybersecurity × Psychology × Behavioral Science × Criminology × Social Engineering × Human Factors × OSINT**
+My work sits between several disciplines:
+
+**Psychology × Behavioral Science × Criminology × Social Engineering × Cybersecurity**
+
+I study how human behavior becomes an attack surface and translate that understanding into **awareness, education, research, and practical defensive strategies**.
+
+My approach is deliberately non-technical when working with general audiences.
+
+The objective is not to turn everyone into a cybersecurity professional.
+
+It is to make people **harder to manipulate.**
 
 ---
 
 ## ⚙️ RESEARCH OBJECTIVE
 
-My objective is to understand **how humans become attack surfaces** and how security can be redesigned around the realities of human cognition and behavior.
+My research asks a fundamental question:
 
-I study the conditions under which people:
+> **Why do intelligent people make unsafe security decisions?**
 
-* trust the wrong source,
-* disclose information,
-* bypass security controls,
-* respond to urgency,
-* obey perceived authority,
-* overlook contradictions,
-* make decisions under cognitive load,
-* become vulnerable to persuasion,
-* and fail to recognize manipulation.
+I am interested in the mechanisms behind those decisions—not simply the outcomes.
 
-Rather than treating people as the "weakest link," I examine the **system surrounding the human decision**: the interface, context, incentives, information environment, attacker strategy, organizational culture, and cognitive conditions that shape behavior.
+That means studying:
 
-The goal is to move cybersecurity awareness from **blame and repetition toward understanding, critical thinking, behavioral resilience, and measurable decision-making.**
+* Why people trust perceived authority
+* Why urgency suppresses verification
+* How familiarity creates credibility
+* How information asymmetry benefits attackers
+* How cognitive load affects judgment
+* How emotional states influence decisions
+* How attackers construct believable identities
+* How publicly available information enables targeting
+* How technology amplifies traditional manipulation techniques
+* Why awareness does not automatically produce behavioral change
+
+I am particularly interested in moving cybersecurity awareness away from **blame, repetition, and compliance** toward **critical thinking, cognitive awareness, behavioral practice, and resilience**.
+
+### MY PRINCIPLE
+
+**The human is not the weakest link.**
+
+The human is part of a larger system.
+
+Understanding that system is where better human security begins.
 
 ---
 
-## 🔬 TECHNOLOGY & RESEARCH TOOLKIT
+## 🔬 TECHNOLOGY & RESEARCH
 
-<p align="center">
+My primary subject is **human behavior**, but I use technology as a research and experimentation layer.
 
-<img src="https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-<img src="https://img.shields.io/badge/HTML%2FCSS-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-<img src="https://img.shields.io/badge/DOCKER-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-<img src="https://img.shields.io/badge/AI%2FML-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
+```text
+RESEARCH
+├── Social Engineering
+├── Psychology
+├── Behavioral Science
+├── Cognitive Security
+├── Criminology
+├── OSINT
+└── Human Factors
 
-</p>
+TECHNOLOGY
+├── AI-assisted research
+├── Generative AI
+├── Synthetic Media Analysis
+├── Python
+├── Docker
+├── Git / GitHub
+├── Web Technologies
+└── Behavioral Simulation
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/OSINT-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-<img src="https://img.shields.io/badge/BEHAVIORAL_ANALYSIS-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-<img src="https://img.shields.io/badge/RESEARCH-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-<img src="https://img.shields.io/badge/AI--ASSISTED_ANALYSIS-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF"/>
-
-</p>
-
-**Technology is the instrument. Human behavior is the subject.**
+APPLICATION
+├── Awareness Programs
+├── Human-Risk Analysis
+├── Scenario Design
+├── Social Engineering Research
+├── Behavioral Experiments
+└── Educational Systems
+```
 
 ---
 
 ## 📚 RESEARCH INTERESTS
 
 * Social engineering
+* Human manipulation
+* Psychology of deception
 * Cognitive security
 * Behavioral cybersecurity
-* Human factors in cybersecurity
-* Psychology of deception
-* Persuasion and influence
+* Human factors
 * Cognitive biases
 * Decision-making under uncertainty
-* Information asymmetry
 * Trust and authority
+* Persuasion and influence
+* Information asymmetry
 * Victimology
-* Routine activity theory
-* Rational choice perspectives
-* Cybercrime and human behavior
+* Routine Activity Theory
+* Rational Choice Theory
+* Cybercrime
 * Digital resilience
-* Security culture
-* Human-centered security design
 * AI-enabled social engineering
-* Emerging manipulation technologies
+* Synthetic identity and media
+* Human-centered security design
 
 ---
 
 ## 📬 CONTACT LINKS
 
-* Email: **[your@email.com](mailto:your@email.com)**
-* LinkedIn: **https://linkedin.com/in/your-profile**
-* Portfolio: **https://your-portfolio-link.com**
-* Research: **https://your-research-portfolio-link.com**
+* 🌐 **Website:** https://rymkhelili.github.io/The-Social-Engineer/
+* 💼 **LinkedIn:** https://linkedin.com/in/your-profile
+* 📧 **Email:** [contact@thesocialengineer.com](mailto:contact@thesocialengineer.com)
+* 📖 **Book:** *Journal of an Imposter — Coming Soon*
 
 ---
 
 ## 📊 STATUS
 
 ```text
-IDENTITY:       The Social Engineer
-SPECIALIZATION: Human Attack Surface
-DOMAIN:         Human-Centric Cybersecurity
-RESEARCH:       Social Engineering + Cognitive Security
-METHOD:         Behavioral Science + Psychology + Cybersecurity
-APPROACH:       Adversarial + Evidence-Governed + Human-Centered
-ROLE:           Independent Researcher + Speaker
-PROJECT:        MOTOKO
-MISSION:        Understand humans before attackers exploit them
-PHILOSOPHY:     The human is not the weakest link.
-                The system around the human matters.
+NAME:       Rym Khelili
+KNOWN AS:   Rei
+IDENTITY:   The Social Engineer
+
+ROLE:       Independent Researcher
+            Social Engineer
+            Speaker
+
+SPECIALTY:  Social Engineering Awareness
+            Human Manipulation Defense
+            Human-Centric Cybersecurity
+
+RESEARCH:   Cognitive Security
+            Behavioral Security
+            Psychology of Deception
+            Human Attack Surface
+
+PROJECT:    MOTOKO
+
+BOOK:       Journal of an Imposter
+            Notes of a Social Engineer
+
+MISSION:    Make people harder to manipulate.
+
+PHILOSOPHY: Social engineering awareness
+            is a human right.
 ```
 
 ---
 
 <div align="center">
 
-### THE HUMAN ATTACK SURFACE
+## THE SOCIAL ENGINEER
 
-**People are not simply the problem to be trained.
-They are part of the security system to be understood.**
+**HUMAN BEHAVIOR IS AN ATTACK SURFACE.**
+
+**MAKE IT HARDER TO EXPLOIT.**
 
 <br>
 
 `Made from human error.`
+
+<br>
+
+**© 2026 Rym Khelili**
 
 </div>
