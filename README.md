@@ -35,7 +35,7 @@ My work focuses on understanding how people are manipulated and educating others
 ## 🚧 I'M CURRENTLY WORKING ON
 
 - **The Human Firewall** │ a research paper exploring human-centered cybersecurity awareness and the role of human behavior in security.
-  -  📄 **Research Repository:** [GitHub Repository](YOUR-HUMAN-FIREWALL-REPO-LINK)
+  -  📄 **Research Repository:** [GitHub Repository]([(https://github.com/RymKhelili/Human-Firewall-Framework-HFF-Theoretical-Foundations-and-Practitioner-Architecture)])
 
 - **Social Engineering Education** │ creating educational content about social engineering, manipulation, and online safety through social media.
   - 📱 **Follow my work:** [Social Media](YOUR-SOCIAL-MEDIA-LINK)
